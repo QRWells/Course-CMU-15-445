@@ -10,6 +10,7 @@ None
 - [ ] Concurrency Control
 - [ ] Distributed Databases
 ## Projects
+- [x] C++ Primer
 - [ ] Buffer Pool Manager
 - [ ] Hash Index
 - [ ] Query Execution
