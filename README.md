@@ -5,7 +5,7 @@
 None
 ## Homeworks
 - [x] SQL
-- [ ] Indexes
+- [x] Indexes
 - [ ] Join Algorithms
 - [ ] Concurrency Control
 - [ ] Distributed Databases

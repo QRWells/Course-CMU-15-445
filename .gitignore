@@ -31,5 +31,8 @@
 *.out
 *.app
 
+.clang-tidy
+.clang-format
+
 .vscode/**
 .idea/**
